@@ -1,0 +1,7 @@
+379af4f Fix swap mechanic
+02fb314 Add visual and finishing draw
+8e18050 Add fall and mousePressed
+837b948 Add three_del function
+5b8ccc4 Add fillin and reorganize code
+e936e8e Add setup and getcandy
+9b1103b Create first draft

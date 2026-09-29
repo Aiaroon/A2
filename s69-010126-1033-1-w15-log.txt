@@ -1,0 +1,1 @@
+﻿24936b7 Fix bug that click at same place and make score menu
